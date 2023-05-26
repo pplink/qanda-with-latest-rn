@@ -1,7 +1,7 @@
 import React from 'react';
 import {useRef, useCallback} from 'react';
 
-import {StyleSheet, View, Button, SafeAreaView, Text} from 'react-native';
+import {StyleSheet, View, Button} from 'react-native';
 import {PagecallView} from 'react-native-pagecall';
 import type {PagecallViewRef} from 'react-native-pagecall';
 
